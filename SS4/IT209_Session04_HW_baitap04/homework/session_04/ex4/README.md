@@ -53,7 +53,7 @@ git log -n 1
 **Kết quả hiển thị:**
 ```text
 commit 91860f92540f18b73930e660aaa565188cc3c706
-Author: DoKhacQuyen94 <quyendk.b24dtcn380@stu.ptit.edu.vn>
+Author: dohongky <dohongky.b24dtcn380@stu.ptit.edu.vn>
 Date:   Mon Oct 5 22:28:51 2026 +0700
 
     Initial setup for ex4 with .gitignore

@@ -1,5 +1,14 @@
 {
   "port": 8081,
+//   Cổng mà ứng dụng sẽ chạy
+  // Ví dụ: http://localhost:8081
+
   "debug": false,
-  "env": "production"
+  // Chế độ Debug
+  // false = tắt Debug
+  // true  = bật Debug
+
+  "env": "production"  // Môi trường chạy ứng dụng
+  // production = môi trường thực tế
+  // development = môi trường phát triển
 }

@@ -39,7 +39,7 @@ Hi DoKhacQuyen94! You've successfully authenticated, but GitHub does not provide
 
 ### Lệnh liên kết remote:
 ```bash
-git remote add origin git@github.com:DoKhacQuyen94/IT209_Session04_HW_baitap03.git
+git remote add origin git@github.com:dohongky/IT209_Session04_HW_baitap03.git
 ```
 
 ### Lệnh kiểm tra remote:
@@ -49,8 +49,8 @@ git remote -v
 
 ### Kết quả mong đợi:
 ```text
-origin  git@github.com:DoKhacQuyen94/IT209_Session04_HW_baitap03.git (fetch)
-origin  git@github.com:DoKhacQuyen94/IT209_Session04_HW_baitap03.git (push)
+origin  git@github.com:dohongky/IT209_Session04_HW_baitap03.git (fetch)
+origin  git@github.com:dohongky/IT209_Session04_HW_baitap03.git (push)
 ```
 
 ---
@@ -65,5 +65,5 @@ git push -u origin main
 ---
 
 ## 5. Thông tin kho lưu trữ GitHub
-- Đường dẫn SSH: `git@github.com:DoKhacQuyen94/IT209_Session04_HW_baitap03.git`
-- Đường dẫn Web: `https://github.com/DoKhacQuyen94/IT209_Session04_HW_baitap03`
+- Đường dẫn SSH: `git@github.com:dohongky/IT209_Session04_HW_baitap03.git`
+- Đường dẫn Web: `https://github.com/dohongky/IT209_Session04_HW_baitap03`
